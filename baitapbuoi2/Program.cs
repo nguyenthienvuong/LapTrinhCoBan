@@ -41,11 +41,52 @@ namespace Lesson1
             Console.WriteLine("*");
             
             //3
-            Console.WriteLine("\n \n \n \n *");
-            Console.WriteLine("\n \n \n * *");
-            Console.WriteLine("\n \n * * *");
-            Console.WriteLine("\n * * * *");
+            Console.WriteLine("        *");
+            Console.WriteLine("      * *");
+            Console.WriteLine("    * * *");
+            Console.WriteLine("  * * * *");
             Console.WriteLine("* * * * *");
+
+            //4
+            Console.WriteLine("* * * * *");
+            Console.WriteLine("  * * * *");
+            Console.WriteLine("    * * *");
+            Console.WriteLine("      * *");
+            Console.WriteLine("        *");
+
+            //5
+            Console.WriteLine("        * ");
+            Console.WriteLine("      * * * ");
+            Console.WriteLine("    * * * * * ");
+            Console.WriteLine("  * * * * * * * ");
+            Console.WriteLine("* * * * * * * * *");
+            
+            //6
+            Console.WriteLine("* * * * * * * * *");
+            Console.WriteLine("  * * * * * * * ");
+            Console.WriteLine("    * * * * * ");
+            Console.WriteLine("      * * * ");
+            Console.WriteLine("        * ");
+
+            //7
+            Console.WriteLine("* * * * * * * * *");
+            Console.WriteLine("  * * * * * * * ");
+            Console.WriteLine("    * * * * * ");
+            Console.WriteLine("      * * * ");
+            Console.WriteLine("        * ");
+            Console.WriteLine("        * ");
+            Console.WriteLine("      * * * ");
+            Console.WriteLine("    * * * * * ");
+            Console.WriteLine("  * * * * * * * ");
+            Console.WriteLine("* * * * * * * * *");
+
+            // BÀI TẬP 4
+            Console.Write("Nhap vao so nguyen duong bat ky tu 0 den 1000 : ");
+            int n= int.Parse(Console.ReadLine());
+            for (int i=0;i<=n;i++)
+            {
+                Console.Write(n/10);
+            }
         }
     }
 }
