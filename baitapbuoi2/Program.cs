@@ -19,18 +19,33 @@ namespace Lesson1
             // BÀI TẬP 3
             //1
             Console.WriteLine("*");
-            Console.WriteLine("**");
-            Console.WriteLine("***");
-            Console.WriteLine("****");
+            Console.WriteLine("* *");
+            Console.WriteLine("* * *");
+            Console.WriteLine("* * * *");
+            Console.WriteLine("* * * * *");
 
-            for(int i=0;i<4;i++)
-            {
-                Console.Write("*");
-                // for(int j=0;j<=i;j++);
-                // {
-                // }
-            Console.WriteLine("\n"); 
-            }
+            // for(int i=0;i<5;i++)
+            // {
+            //     Console.Write("*");
+            //     // for(int j=0;j<=i;j++);
+            //     // {
+            //     // }
+            // Console.WriteLine("\n"); 
+            // }
+
+            //2
+            Console.WriteLine("* * * * *");
+            Console.WriteLine("* * * *");
+            Console.WriteLine("* * *");
+            Console.WriteLine("* *");
+            Console.WriteLine("*");
+            
+            //3
+            Console.WriteLine("\n \n \n \n *");
+            Console.WriteLine("\n \n \n * *");
+            Console.WriteLine("\n \n * * *");
+            Console.WriteLine("\n * * * *");
+            Console.WriteLine("* * * * *");
         }
     }
 }
