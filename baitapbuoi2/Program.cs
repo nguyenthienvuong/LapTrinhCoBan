@@ -83,14 +83,16 @@ namespace Lesson1
             // BÀI TẬP 4
             Console.Write("Nhap vao so nguyen duong bat ky tu 0 den 1000 : ");
             int n1 = int.Parse(Console.ReadLine());
-            // if (n1=0)
-            // {
-            //     Console.WriteLine("So 0 co ky so la 0 ");
-            // }
-            // else if (n1=1000)
-            // {
-            //     Console.WriteLine("So 1000 co ky so la 1,0,0,0");
-            // }
+            if (n1=0)
+            {
+                Console.WriteLine("So 0 co ky so la 0 ");
+            }
+            else if (n1=1000)
+            {
+                Console.WriteLine("So 1000 co ky so la 1,0,0,0");
+            }
+            else if (0 <= n1 <= 1000)
+            {
             int n2 = n1;
             int t1 = n2%10;
             n2=n2/10;
@@ -98,6 +100,11 @@ namespace Lesson1
             n2=n2/10;
             int t3 = n2%10;
             Console.WriteLine($"So {n1} co ky so la {t3},{t2},{t1}");     
+            }
+            else
+            {
+            Console.WriteLine("Dieu kien nhap khong thoa man");        
+            }
 
             // BÀI TẬP 5
             Console.Write("Nhap diem thi lan 1 (25%): ");
