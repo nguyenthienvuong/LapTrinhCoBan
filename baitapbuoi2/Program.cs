@@ -115,10 +115,23 @@ namespace Lesson1
             Console.Write("Nhap chieu rong tam giac vuong : ");
             double cr = float.Parse(Console.ReadLine());
             double ch = Math.Sqrt(cd*cd + cr*cr);
-            double cv = cd + cr + ch; // chu vi= a+b+c
-            double dt = (cd * cr) / 2; // dien tich=1/2(a*b)
+            double cv = cd + cr + ch; // chu vi= cd+cr+ch
+            double dt = (cd * cr) / 2; // dien tich=1/2(cd*cr)
             Console.WriteLine($"Chu vi tam giac vuong la : {cv}");
             Console.WriteLine($"Dien tich tam giac vuong la : {dt}");
+
+            // BÀI TẬP 7
+            Console.Write("Nhap canh thu nhat : ");
+            double c1 = float.Parse(Console.ReadLine());
+            Console.Write("Nhap canh thu hai : ");
+            double c2 = float.Parse(Console.ReadLine());
+            Console.Write("Nhap canh thu ba : ");
+            double c3 = float.Parse(Console.ReadLine());
+            double cv2 = c1 + c2 + c3; // chu vi= cd+cr+ch
+            Console.WriteLine($"Chu vi hinh tam giac la: {cv2}");
+            double nuacv=cv2/2;
+            double dientich2 = Math.Sqrt(nuacv*(nuacv-c1)*(nuacv-c2)*(nuacv-c3)); // dien tich = cong thuc Heron
+            Console.WriteLine($"Dien tich hinh tam giac la: {dientich2}");
         }
     }
 }
