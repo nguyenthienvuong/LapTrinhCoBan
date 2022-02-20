@@ -82,10 +82,12 @@ namespace Lesson1
 
             // BÀI TẬP 4
             Console.Write("Nhap vao so nguyen duong bat ky tu 0 den 1000 : ");
-            int n= int.Parse(Console.ReadLine());
-            for (int i=0;i<=n;i++)
+            int n2 = int.Parse(Console.ReadLine());
+            while (n2>=0 & n2<=1000)
             {
-                Console.Write(n/10);
+                int a=n2%10;
+                n2=n2/10;
+                Console.Write(a);
             }
         }
     }
