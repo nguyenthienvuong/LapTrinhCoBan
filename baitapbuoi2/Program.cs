@@ -97,10 +97,18 @@ namespace Lesson1
             int t2 = n2%10;
             n2=n2/10;
             int t3 = n2%10;
-            Console.WriteLine($"So {n1} co ky so la {t1},{t2},{t3}");     
+            Console.WriteLine($"So {n1} co ky so la {t3},{t2},{t1}");     
 
             // BÀI TẬP 5
-                   
+            Console.Write("Nhap diem thi lan 1 (25%): ");
+            float dt1 = float.Parse(Console.ReadLine());
+            Console.Write("Nhap diem thi online (25%) : ");
+            float dt2 = float.Parse(Console.ReadLine());
+            Console.Write("Nhap diem thi lan cuoi ky (50%) : ");
+            float dt3 = float.Parse(Console.ReadLine());
+            float dtb = ((dt1*25/100) + (dt2*25/100) + (dt3*50/100))/3;
+            Console.WriteLine($"Diem trung binh là : {dtb}");
+
         }
     }
 }
