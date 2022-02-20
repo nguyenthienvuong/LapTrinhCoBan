@@ -82,13 +82,25 @@ namespace Lesson1
 
             // BÀI TẬP 4
             Console.Write("Nhap vao so nguyen duong bat ky tu 0 den 1000 : ");
-            int n2 = int.Parse(Console.ReadLine());
-            while (n2>=0 & n2<=1000)
-            {
-                int a=n2%10;
-                n2=n2/10;
-                Console.Write(a);
-            }
+            int n1 = int.Parse(Console.ReadLine());
+            // if (n1=0)
+            // {
+            //     Console.WriteLine("So 0 co ky so la 0 ");
+            // }
+            // else if (n1=1000)
+            // {
+            //     Console.WriteLine("So 1000 co ky so la 1,0,0,0");
+            // }
+            int n2 = n1;
+            int t1 = n2%10;
+            n2=n2/10;
+            int t2 = n2%10;
+            n2=n2/10;
+            int t3 = n2%10;
+            Console.WriteLine($"So {n1} co ky so la {t1},{t2},{t3}");     
+
+            // BÀI TẬP 5
+                   
         }
     }
 }
