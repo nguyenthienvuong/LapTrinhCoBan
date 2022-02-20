@@ -106,9 +106,19 @@ namespace Lesson1
             float dt2 = float.Parse(Console.ReadLine());
             Console.Write("Nhap diem thi lan cuoi ky (50%) : ");
             float dt3 = float.Parse(Console.ReadLine());
-            float dtb = ((dt1*25/100) + (dt2*25/100) + (dt3*50/100))/3;
+            float dtb = (dt1*25/100) + (dt2*25/100) + (dt3*50/100);
             Console.WriteLine($"Diem trung binh là : {dtb}");
 
+            // BÀI TẬP 6
+            Console.Write("Nhap chieu dai tam giac vuong : ");
+            double cd = float.Parse(Console.ReadLine());
+            Console.Write("Nhap chieu rong tam giac vuong : ");
+            double cr = float.Parse(Console.ReadLine());
+            double ch = Math.Sqrt(cd*cd + cr*cr);
+            double cv = cd + cr + ch; // chu vi= a+b+c
+            double dt = (cd * cr) / 2; // dien tich=1/2(a*b)
+            Console.WriteLine($"Chu vi tam giac vuong la : {cv}");
+            Console.WriteLine($"Dien tich tam giac vuong la : {dt}");
         }
     }
 }
