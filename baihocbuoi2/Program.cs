@@ -16,12 +16,12 @@ namespace Lesson1
             // Console.WriteLine("Gia tri nho nhat" + float.MinValue);
             // Console.WriteLine("Gia tri lon nhat" + float.MaxValue);
 
-            // string name="Vuong";
-            // int tuoi=33;
-            // string gioitinh="Nam";
-            // Console.WriteLine("Toi ten la {0}, toi {1} tuoi, gioi tinh la {2}",name,tuoi,gioitinh);
-            // Console.WriteLine($"Toi ten la {name}, toi {tuoi} tuoi, gioi tinh la {gioitinh}");
-            // Console.WriteLine("Toi ten la " + name + ", toi " + tuoi + "tuoi , gioi tinh la " + gioitinh);
+            string name="Vuong";
+            int tuoi=33;
+            string gioitinh="Nam";
+            Console.WriteLine("Toi ten la {0}, toi {1} tuoi, gioi tinh la {2}",name,tuoi,gioitinh);
+            Console.WriteLine($"Toi ten la {name}, toi {tuoi} tuoi, gioi tinh la {gioitinh}");
+            Console.WriteLine("Toi ten la " + name + ", toi " + tuoi + "tuoi , gioi tinh la " + gioitinh);
 
             // Console.Write("Nhap vao ten:");
             // var ten = Console.ReadLine();
