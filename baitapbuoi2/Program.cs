@@ -6,6 +6,8 @@ namespace Lesson1
     {
         public static void Main(string[] arg)
         {
+            Console.InputEncoding = Encoding.UTF8; 
+            Console.OutputEncoding = Encoding.UTF8; 
             // BÀI TẬP 1
             Console.WriteLine("Ngon ngu lap trinh C");
 
