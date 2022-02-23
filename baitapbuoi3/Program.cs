@@ -53,6 +53,30 @@ namespace Lesson1
             int max = n01>=n02?n01>=n03?n01:n03:n02>=n03?n02:n03;
             Console.WriteLine($"Số lớn nhất là : {max}");
 
+            Console.Write("Nhập vào số nguyên dương bất kỳ : ");
+            int n001 = Convert.ToInt32(Console.ReadLine());
+            switch (n001 % 2)
+            {
+                case 0:
+                    Console.WriteLine($"{n001} là số chẵn");
+                break;
+                case 1:
+                    Console.WriteLine($"{n001} là số lẻ");
+                break;
+            }
+
+            // VÍ DỤ VỀ VÒNG LẶP
+            Console.Write("Nhập vào số nguyên dương bất kỳ : ");
+            int n0001 = Convert.ToInt32(Console.ReadLine());
+            for(;n0001<=89;n0001=n0001+3)
+            {
+                Console.WriteLine($"{n0001}");
+            }
+                // Lỗi Vòng lặp vô tận
+                // for (;;)
+                // {
+                // }
+            
         }
     }
 }
