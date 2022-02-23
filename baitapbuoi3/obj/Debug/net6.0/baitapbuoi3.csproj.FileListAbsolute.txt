@@ -1,0 +1,15 @@
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\bin\Debug\net6.0\baitapbuoi3.exe
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\bin\Debug\net6.0\baitapbuoi3.deps.json
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\bin\Debug\net6.0\baitapbuoi3.runtimeconfig.json
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\bin\Debug\net6.0\baitapbuoi3.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\bin\Debug\net6.0\baitapbuoi3.pdb
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.csproj.AssemblyReference.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.GeneratedMSBuildEditorConfig.editorconfig
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.AssemblyInfoInputs.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.AssemblyInfo.cs
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.csproj.CoreCompileInputs.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\refint\baitapbuoi3.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.pdb
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\baitapbuoi3.genruntimeconfig.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\baitapbuoi3\obj\Debug\net6.0\ref\baitapbuoi3.dll

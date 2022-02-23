@@ -83,7 +83,7 @@ namespace Lesson1
             Console.WriteLine("* * * * * * * * *");
 
             // BÀI TẬP 4
-            Console.Write("Nhap vao so nguyen duong bat ky tu 0 den 1000 : ");
+            Console.Write("Nhập vao so nguyen duong bat ky tu 0 den 1000 : ");
             int n1 = int.Parse(Console.ReadLine());
             // if (n1=0)
             // {
