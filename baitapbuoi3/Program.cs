@@ -127,8 +127,8 @@ namespace Lesson1
             Console.WriteLine(giaDienThoai.Min());
             Console.WriteLine(giaDienThoai.Sum());
             
-            // VÍ DỤ VỀ CẤU TRÚC MẢNG, DỮ LIỆU MẢNG
-            Console.WriteLine("*** VÍ DỤ VỀ CẤU TRÚC MẢNG, DỮ LIỆU MẢNG ***");
+            // VÍ DỤ VỀ KHAI BÁO PHƯƠNG THỨC
+            Console.WriteLine("*** VÍ DỤ VỀ KHAI BÁO PHƯƠNG THỨC ***");
         }
     }
 }
