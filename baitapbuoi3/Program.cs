@@ -10,6 +10,7 @@ namespace Lesson1
             Console.OutputEncoding = Encoding.UTF8; 
 
             // VÍ DỤ VỀ TOÁN TỬ SO SÁNH LOGIC
+            Console.WriteLine("*** VÍ DỤ VỀ TOÁN TỬ SO SÁNH LOGIC ***");
             Console.Write("Nhập vào 1 số nguyên dương bất kỳ : ");
             int n = Convert.ToInt32(Console.ReadLine());
             if((n%2)==0)
@@ -65,10 +66,12 @@ namespace Lesson1
                 break;
             }
 
+
             // VÍ DỤ VỀ VÒNG LẶP
+            Console.WriteLine("*** VÍ DỤ VỀ VÒNG LẶP ***");
             Console.Write("Nhập vào số nguyên dương bất kỳ : ");
             int n0001 = Convert.ToInt32(Console.ReadLine());
-            for(;n0001<=89;n0001=n0001+3)
+            for(;n0001<=100;n0001=n0001+10)
             {
                 Console.WriteLine($"{n0001}");
             }
@@ -76,7 +79,27 @@ namespace Lesson1
                 // for (;;)
                 // {
                 // }
-            
+            Console.Write("Nhập vào số nguyên dương bất kỳ : ");
+            int n0002 = Convert.ToInt32(Console.ReadLine());
+            while (n0002 <= 100)
+            {
+                Console.WriteLine($"{n0002}");   
+                n0002+=50;          
+            }
+
+            Console.Write("Nhập vào số nguyên dương bất kỳ : ");
+            int n0003 = Convert.ToInt32(Console.ReadLine());
+            do
+            {
+                Console.WriteLine($"{n0003}");   
+                n0003+=100;        
+            }
+            while (n0003 <= 10000);          
+
+
+             // VÍ DỤ VỀ CẤU TRÚC MẢNG, DỮ LIỆU MẢNG
+             Console.WriteLine("*** VÍ DỤ VỀ CẤU TRÚC MẢNG, DỮ LIỆU MẢNG ***");
+
         }
     }
 }
