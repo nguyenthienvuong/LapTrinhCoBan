@@ -1,0 +1,15 @@
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\bin\Debug\net6.0\nhap.exe
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\bin\Debug\net6.0\nhap.deps.json
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\bin\Debug\net6.0\nhap.runtimeconfig.json
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\bin\Debug\net6.0\nhap.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\bin\Debug\net6.0\nhap.pdb
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.csproj.AssemblyReference.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.GeneratedMSBuildEditorConfig.editorconfig
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.AssemblyInfoInputs.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.AssemblyInfo.cs
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.csproj.CoreCompileInputs.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\refint\nhap.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.pdb
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\nhap.genruntimeconfig.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\nhap\obj\Debug\net6.0\ref\nhap.dll
