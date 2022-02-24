@@ -100,6 +100,8 @@ namespace Lesson1
              // VÍ DỤ VỀ CẤU TRÚC MẢNG, DỮ LIỆU MẢNG
              Console.WriteLine("*** VÍ DỤ VỀ CẤU TRÚC MẢNG, DỮ LIỆU MẢNG ***");
 
+            string[] hangDienThoai = new string[3]{"iPhone","Samsung", "Nokia"};
+            Console.WriteLine(hangDienThoai);`
         }
     }
 }
