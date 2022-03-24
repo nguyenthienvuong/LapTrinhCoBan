@@ -1,0 +1,15 @@
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\bin\Debug\net6.0\CBasic.exe
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\bin\Debug\net6.0\CBasic.deps.json
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\bin\Debug\net6.0\CBasic.runtimeconfig.json
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\bin\Debug\net6.0\CBasic.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\bin\Debug\net6.0\CBasic.pdb
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.csproj.AssemblyReference.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.AssemblyInfoInputs.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.AssemblyInfo.cs
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.csproj.CoreCompileInputs.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\refint\CBasic.dll
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.pdb
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\CBasic.genruntimeconfig.cache
+E:\2. LEARNING\KY NANG LAP TRINH\LAPTRINHCOBAN\CBasic\obj\Debug\net6.0\ref\CBasic.dll
