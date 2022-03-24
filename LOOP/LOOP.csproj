@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Array.BT3</StartupObject>
+    <StartupObject>Loop.BT1</StartupObject>
   </PropertyGroup>
 
 </Project>
