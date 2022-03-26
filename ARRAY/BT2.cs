@@ -90,12 +90,12 @@ namespace Array
             Console.WriteLine($"Sum of element is : {sum}");
 
             //9. Average of array : ra kết quả sai
-
-            for (int i = 0; i < N; i++)
+            
+            /* for (int i = 0; i < N; i++)
             {
                 sum = sum + arrayN[i];
-            }
-            float ave = sum / (float)N;
+            } */
+            float ave = sum / N;
             Console.WriteLine(N);
             Console.WriteLine($"Average of element is : {ave}");
 

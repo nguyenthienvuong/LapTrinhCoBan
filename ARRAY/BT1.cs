@@ -42,19 +42,29 @@ namespace Array
             //Loại bỏ các giá trị  trùng nhau
             Console.WriteLine("\n");
             Console.Write("The array after sort from low to high and remove the same value: ");
-            for (int i = 1; i < N; i++)
-            {               
-                    if (a[i] == a[i-1] && a[i] == a[i+1])
+
+            int[] filter = new int[0];
+            for (int i = 0; i < a.Length; i++)
+            {
+                bool isNotExist = true;
+                for (int j = 0; j < filter.Length; j++)
+                {
+                    if (a[i] == filter[j])
                     {
-                        // N--;
-                        Console.Write($"{a[i]}" + " ");
+                        isNotExist = false;
+                        break;
                     }
-                    else
-                    {
-                        Console.Write("T");
-                    }           
+
+                }
+                if (isNotExist)
+                {
+                    System.Array.Resize(ref filter, filter.Length + 1);
+                    filter[filter.Length - 1] = a[i];
+                }
+
             }
-            
+            Console.WriteLine(String.Join(',', filter));
+
         }
     }
 }
